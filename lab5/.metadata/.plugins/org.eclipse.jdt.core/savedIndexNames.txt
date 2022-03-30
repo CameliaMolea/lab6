@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/student/Molea Camelia/lab5/.metadata/.plugins/org.eclipse.jdt.core
+610442194.index
+1575941930.index
+1222618034.index
+646308851.index
+532985496.index

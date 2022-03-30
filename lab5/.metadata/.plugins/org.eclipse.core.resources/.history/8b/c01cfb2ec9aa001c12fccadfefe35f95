@@ -1,0 +1,14 @@
+package laborator5;
+
+public class Motor {
+	private int rezultat;
+
+	public int pornireMotor()
+	{
+		return rezultat;
+	}
+	public int stingeMotor() 
+	{
+		return rezultat;
+	}
+}
